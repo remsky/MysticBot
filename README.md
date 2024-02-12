@@ -1,4 +1,8 @@
-# Discord Bot with JIRA Integration
+
+<img width="100%" alt="robotbuddy" src="https://github.com/remsky/MysticBot/assets/25017870/af925672-a695-410d-8bac-0a2cb496c2d5">
+
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+# **MysticBot**: Discord Bot with JIRA Integration
 
 ## Introduction
 This README provides setup and usage instructions for a Discord bot designed to integrate with JIRA. This bot allows Discord users to interact with JIRA issues directly, enhancing project management and collaboration efficiency.
@@ -46,6 +50,7 @@ SERVER_ID=your_discord_server_id
 Execute the bot using:
 ```bash
 poetry run python bot.py
+```
 Usage
 With the bot running, use these commands in your Discord server:
 ```
