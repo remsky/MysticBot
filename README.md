@@ -53,9 +53,10 @@ poetry run python bot.py
 ```
 Usage
 With the bot running, use these commands in your Discord server:
-```
-List Open Issues: /listopen lists all open JIRA tickets in your project.
-Add New Ticket: /addticket with summary and description arguments to create a new JIRA ticket.
+
+1. List Open Issues: /listopen lists all open JIRA tickets in your project.
+2. Add New Ticket: /addticket with summary and description arguments to create a new JIRA ticket.
+
 Contributing
 We welcome contributions. Please use the standard fork-and-pull request workflow.
 
